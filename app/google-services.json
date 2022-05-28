@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "255008174947",
+    "project_id": "estilo-6af0a",
+    "storage_bucket": "estilo-6af0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255008174947:android:2a817ba0ae837e569f9956",
+        "android_client_info": {
+          "package_name": "com.estilo.shopping"
+        }
+      },
+
+
+
+      "oauth_client": [
+        {
+          "client_id": "255008174947-dae5dthonl211ogfvji0ndbilks83odm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXL1-Iz2ADKve10ziHdUTIc69pupCKv4Y"
+        }
+      ],
+
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255008174947-dae5dthonl211ogfvji0ndbilks83odm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
